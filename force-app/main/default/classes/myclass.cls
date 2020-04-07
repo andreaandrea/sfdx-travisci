@@ -1,6 +1,6 @@
 public with sharing class myclass {
 	public myclass() {
-		//This is a changed
+		//This is a changed addded 2
 
 	}
 
